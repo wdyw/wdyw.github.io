@@ -8,7 +8,7 @@
 /* ======= Base ======= */
 body {
   font-family: 'Lato', arial, sans-serif;
-  color: #444444;
+  color: #000000;
 }
 a {
   color: #03A9F4;
@@ -281,7 +281,7 @@ select {
   max-height: 50px;
 }
 .header h1.logo a {
-  color: #444444;
+  color: #000000;
   -webkit-transition: none;
   -moz-transition: none;
   -ms-transition: none;
@@ -322,7 +322,7 @@ select {
   background: none;
 }
 .header .main-nav .nav .nav-item a {
-  color: #444444;
+  color: #000000;
   -webkit-transition: none;
   -moz-transition: none;
   -ms-transition: none;
@@ -350,7 +350,7 @@ select {
 }
 /* ======= Footer ======= */
 .footer {
-  background: #444444;
+  background: #000000;
   color: #fff;
   padding: 15px 0;
 }
@@ -812,12 +812,12 @@ select {
   margin-bottom: 30px;
   font-size: 16px;
   font-weight: 300;
-  color: #777777;
+  color: #000;
 }
 .how .content .note {
   position: relative;
   padding-bottom: 42px;
-  color: #999999;
+  color: #000000;
 }
 .how .content .note .left-arrow {
   position: absolute;
@@ -842,7 +842,7 @@ select {
   max-width: 150px;
 }
 .how .content .qr-codes .item p {
-  color: #777777;
+  color: #000;
 }
 .how .video-container {
   margin-top: 50px;
@@ -878,7 +878,7 @@ select {
   color: #0398db;
 }
 .faq .item .answer {
-  color: #777777;
+  color: #000;
   font-weight: 300;
 }
 .faq .more {
@@ -886,7 +886,7 @@ select {
 }
 .faq .more .title {
   margin-bottom: 15px;
-  color: #999999;
+  color: #000000;
   font-size: 18px;
 }
 .faq .more .btn {
@@ -918,11 +918,11 @@ select {
   margin-bottom: 15px;
 }
 .story .team .member .name {
-  color: #0398db;
+  color: #000000;
   margin-bottom: 0px;
 }
 .story .team .member .title {
-  color: #0398db;
+  color: #000000;
   font-weight: 300;
 }
 .story .team .connect {
@@ -1004,7 +1004,7 @@ select {
 }
 .testimonials .item .people .title {
   display: block;
-  color: #999999;
+  color: #000000;
 }
 .testimonials .press .note {
   color: #03A9F4;
@@ -1179,10 +1179,10 @@ select {
   color: #03A9F4;
 }
 .pricing .item .feature-list li.disabled {
-  color: #999999;
+  color: #000000;
 }
 .pricing .item .feature-list li.disabled .fa {
-  color: #999999;
+  color: #000000;
 }
 /* ======= Contact Section ======= */
 .contact {
@@ -1204,14 +1204,14 @@ select {
 }
 .contact .intro li {
   margin-bottom: 10px;
-  color: #0398db;
+  color: #000000;
   font-size: 16px;
 }
 .contact .intro li .fa {
   margin-right: 10px;
 }
 .contact .intro li a {
-  color: #0398db;
+  color: #000000;
 }
 .contact .intro li a:hover {
   color: #0398db;
@@ -1279,7 +1279,7 @@ select {
   margin: 0 auto;
 }
 .modal .figure .caption {
-  color: #999999;
+  color: #000000;
   font-style: italic;
   padding: 10px;
 }
@@ -1296,7 +1296,7 @@ select {
 }
 .modal .quote p {
   font-size: 14px;
-  color: #777777;
+  color: #000;
   line-height: 1.5;
   font-style: italic;
 }
@@ -1307,7 +1307,7 @@ select {
 .modal .quote .people {
   margin-top: 10px;
   font-size: 13px;
-  color: #444444;
+  color: #000000;
   font-style: normal;
 }
 .modal .quote .people .name {
@@ -1329,7 +1329,7 @@ select {
   left: -36px;
   width: 36px;
   height: 36px;
-  background: #444444;
+  background: #000000;
   color: #fff;
   text-align: center;
   -webkit-border-top-right-radius: 0;
@@ -1360,7 +1360,7 @@ select {
 .config-panel {
   width: 190px;
   display: none;
-  background: #444444;
+  background: #000000;
   color: #fff;
   padding: 15px;
   -webkit-border-top-right-radius: 0;
@@ -1389,7 +1389,7 @@ select {
   margin-bottom: 0;
 }
 .config-panel #device-options a {
-  color: #999999;
+  color: #000000;
 }
 .config-panel #device-options a:hover {
   color: #03A9F4;
